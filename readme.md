@@ -1,4 +1,3 @@
+Quizz system
 
-
-## QApp - Powered By Izweb Technologies LTD
 
